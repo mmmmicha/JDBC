@@ -1,1 +1,1 @@
-# Ssangyong_JDBC
+# JDBC
